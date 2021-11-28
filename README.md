@@ -15,10 +15,22 @@ TIL for Me!
 ***
 
 ## 2.
-### 2021.11.12-2021.11.28
+### 2021.11.22-2021.11.28
 * Python Basic
    - 
 * Data Literacy
    - 
 * Topic Clipping
    - <블라인드 채용>, <AI면접>
+
+
+***
+
+## 3.
+### 2021.11.29-2021.12.05
+* Python Basic
+   - 
+* Data Literacy
+   - 
+* Topic Clipping
+   - <메타버스>, <가상화폐>, <데이터 보안>
